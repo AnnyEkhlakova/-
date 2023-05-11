@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'JostExtraBold';
+    src: url('fonts/JostExtraBold.eot');
+    src: url('fonts/JostExtraBold.eot') format('embedded-opentype'),
+         url('fonts/JostExtraBold.woff2') format('woff2'),
+         url('fonts/JostExtraBold.woff') format('woff'),
+         url('fonts/JostExtraBold.ttf') format('truetype'),
+         url('fonts/JostExtraBold.svg#JostExtraBold') format('svg');
+}
